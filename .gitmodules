@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Zuhriya29/web-pemesanan-makanan-be.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Zuhriya29/web-pemesanan-makanan-fe.git
