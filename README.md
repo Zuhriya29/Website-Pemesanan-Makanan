@@ -24,7 +24,6 @@ A full-stack food ordering web application built with React.js, Laravel, and Pos
 ### Frontend
 
 * React.js
-* Tailwind CSS
 * Axios
 * React Router
 
